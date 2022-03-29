@@ -3,7 +3,7 @@
 
 - 🔭 A procura de um estágio Full Stack :]
 - 🌱 Atualmente faço Engenharia de Software e ADS. 
-- 💻 Também por fora procuro cursos e aprender mais sobre coisas específicas, no momento HTML, CSS & Javascript. :P
+- 💻 Também por fora procuro cursos para aprender mais sobre coisas específicas, no momento HTML, CSS & Javascript. :P
 - 😄 Pronomes: ela/dela 
 - ⚡ Fun fact: Em busca de Full Stack, por não saber qual área escolher ainda hahaha
 
@@ -29,6 +29,5 @@
   <a href="https://www.linkedin.com/in/lívia-braz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <img align="right" alt="gloria-pic" height="180" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/1472643_2tezJBvM.png">
  
-  ![snake gif](https://github.com/liviabraz/liviabraz/blob/output/github-contribution-grid-snake.svg)
  
 </div>
