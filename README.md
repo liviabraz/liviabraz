@@ -6,6 +6,7 @@
 - 💻 Também por fora procuro cursos para aprender mais sobre coisas específicas, no momento HTML, CSS & Javascript. :P
 - 😄 Pronomes: ela/dela 
 - ⚡ Fun fact: Em busca de Full Stack, por não saber qual área escolher ainda hahaha
+- COMPLETAMENTE apaixonada por tecnologia, coca cola e Genshin Impact (～￣▽￣)～
 
 
 <div align="center">
