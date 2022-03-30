@@ -6,7 +6,7 @@
 - 💻 Também por fora procuro cursos para aprender mais sobre coisas específicas, no momento HTML, CSS & Javascript. :P
 - 😄 Pronomes: ela/dela 
 - ⚡ Fun fact: Em busca de Full Stack, por não saber qual área escolher ainda hahaha
-- COMPLETAMENTE apaixonada por tecnologia, coca cola e Genshin Impact (～￣▽￣)～
+- COMPLETAMENTE APAIXONADA por tecnologia, coca cola e Genshin Impact (～￣▽￣)～
 
 
 <div align="center">
@@ -28,7 +28,7 @@
  	<a href="https://www.twitch.tv/glorinyaa" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a
   <a href = "mailto:revoltz.282@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lívia-braz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <img align="right" alt="gloria-pic" height="180" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/1472643_2tezJBvM.png">
+  <img align="right" alt="gloria-pic" height="180" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/1472643_sbBS9Wo4.png">
  
  
 </div>
