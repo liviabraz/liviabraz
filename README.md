@@ -28,7 +28,7 @@
  	<a href="https://www.twitch.tv/glorinyaa" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a
   <a href = "mailto:revoltz.282@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lívia-braz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/user/oueukk72u79qtuhiayjhf0z6u?si=YQKvmWrURsur7a_hCD6_Sg&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <img align="right" alt="gloria-pic" height="180" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/1472643_sbBS9Wo4.png">
  
  
