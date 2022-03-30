@@ -38,7 +38,7 @@ Oii! Bem-vindos ao meu GitHub!
 </div>
   
   <div align="center">
-    <br>
+    <br> 
     ![Snake animation](https://github.com/liviabraz/liviabraz/blob/output/github-contribution-grid-snake.svg)
   </div>
   
