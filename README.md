@@ -13,11 +13,9 @@ Oii! Bem-vindos ao meu GitHub!
  ## 
   
 <div align="center">
-  <br>
+  <a href="https://github.com/liviabraz">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=liviabraz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liviabraz&layout=compact&langs_count=7&theme=midnight-purple"/>
- <a href="https://github.com/liviabraz">
-   <br>
 </div>
 
 <div align="center" style="display: inline_block"><br>
