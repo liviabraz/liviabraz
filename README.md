@@ -2,7 +2,7 @@
 Oii! Bem-vindos ao meu GitHub!
 <h1> Eu sou a Glória 🌹o(〃＾▽＾〃)o🌹 <h1>
   
-  </div>
+</div>
   
 - 🔭 A procura de um estágio Full Stack :]
 - 🌱 Atualmente faço Engenharia de Software e ADS.
@@ -24,7 +24,7 @@ Oii! Bem-vindos ao meu GitHub!
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
+ ##
  
 <div align="center" style="display: inline_block">  
   <a href="https://instagram.com/mrslonli" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
