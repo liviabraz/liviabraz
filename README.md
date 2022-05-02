@@ -4,7 +4,7 @@ Oii! Bem-vindos ao meu GitHub!
   
 </div>
   
-- 🔭 A procura de um estágio Full Stack :]
+- 🔭 A procura de um estágio :]
 - 🌱 Atualmente faço Engenharia de Software e ADS.
 - 💻 Também por fora procuro aprender mais sobre coisas específicas, no momento HTML, CSS & Javascript. :P
 - 😄 Pronomes: ela/dela
