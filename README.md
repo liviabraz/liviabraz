@@ -4,10 +4,11 @@ Oii! Bem-vindos ao meu GitHub!
   
 </div>
   
-- 🔭 A procura de um estágio :]
-- 🌱 Atualmente faço Engenharia de Software e ADS.
-- 💻 Também por fora procuro aprender mais sobre coisas específicas, no momento HTML, CSS & Javascript. :P
-- 😄 Pronomes: ela/dela
+- 🔭 A procura de um estágio tech :]
+- 🌱 Atualmente estou no 1º período de Engenharia de Software e ADS.
+- 💻 Também procuro aprender mais além, no momento HTML, CSS & Javascript. :P
+- 😄 Idiomas: Inglês avançado e japonês básico.
+- 🎮 Área de maior interesse: Desenvolvimento de Games e Back-End. 
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola e Genshin Impact (～￣▽￣)～
 
  ## 
