@@ -6,7 +6,7 @@ Oii! Bem-vindos ao meu GitHub!
   
 - 🔭 A procura de um estágio tech :]
 - 🌱 Atualmente estou no 1º período de Engenharia de Software e ADS.
-- 💻 Também procuro aprender mais além, no momento HTML, CSS & Javascript. :P
+- 💻 Também procuro aprender mais além, no momento C# :P
 - 😄 Idiomas: Inglês avançado e japonês básico.
 - 🎮 Área de maior interesse: Desenvolvimento de Games e Back-End. 
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola e Genshin Impact (～￣▽￣)～
@@ -23,6 +23,8 @@ Oii! Bem-vindos ao meu GitHub!
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+          
 </div>
   
  ##
