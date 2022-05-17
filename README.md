@@ -6,9 +6,9 @@ Oii! Bem-vindos ao meu GitHub!
   
 - 🔭 A procura de um estágio tech :]
 - 🌱 Atualmente estou no 1º período de Engenharia de Software e ADS.
-- 💻 Também procuro aprender mais além, no momento C# e Phyton :P
+- 💻 Também procuro aprender mais além, no momento C# :P
 - 😄 Idiomas: Inglês avançado e japonês básico.
-- 🎮 Área de maior interesse: Desenvolvimento de Games e Back-End. 
+- 🎮 Área de maior interesse: Desenvolvimento de Jogos e Back-End. 
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola e Genshin Impact (～￣▽￣)～
 
  ## 
