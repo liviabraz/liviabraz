@@ -5,7 +5,7 @@ Oii! Bem-vindos ao meu GitHub!
 </div>
   
 - 🔭 A procura de um estágio tech :]
-- ⚖ Áreas de maior interesse: Análise de Dados, BackEnd e Desenv. de Jogos 🥰
+- ⚖ Áreas de maior interesse: Dados, BackEnd e Desenv. de Jogos 🥰
 - 🌱 Atualmente estou no 1º período de Engenharia de Software e ADS.
 - 💻 Também procuro aprender mais além, no momento Python :P
 - 😄 Idiomas: Inglês avançado.
