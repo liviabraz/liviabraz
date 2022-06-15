@@ -4,7 +4,7 @@ Oii! Bem-vindos ao meu GitHub!
   
 </div>
   
-- 🎉 Estagiária de Dados na Bemobi :]
+- 🔭 A procura de um estágio tech 
 - ⚖ Áreas de maior interesse: Dados, BackEnd e Desenv. de Jogos 🥰
 - 🌱 Atualmente estou no 1º período de Engenharia de Software e ADS.
 - 💻 Também procuro aprender mais além, no momento SQL e Python :P
