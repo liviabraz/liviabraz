@@ -6,7 +6,7 @@ Oii! Bem-vindos ao meu GitHub!
   
 - 🎉 Estagiária de Dados na Bemobi
 - ⚖ Áreas de maior interesse: Dados, BackEnd e Desenv. de Jogos 🥰
-- 🌱 Atualmente estou no 1º período de Engenharia de Software e ADS.
+- 🌱 Atualmente estou no 2º período de Engenharia de Software e ADS.
 - 💻 Também procuro aprender mais além, no momento SQL e Python :P
 - 😄 Idiomas: Inglês avançado.
 - ⚡ Fun fact: COMPLETAMENTE APAIXONADA por tecnologia, coca cola e Genshin Impact (～￣▽￣)～
@@ -34,7 +34,7 @@ Oii! Bem-vindos ao meu GitHub!
   <a href="mailto:revoltz.282@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lívia-braz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/oueukk72u79qtuhiayjhf0z6u?si=YQKvmWrURsur7a_hCD6_Sg&utm_source=copy-link" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  <img align="center" alt="gloria-pic" height="260" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202203/1472643_sbBS9Wo4.png">
+  <img align="center" alt="gloria-pic" height="260" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202207/1472643_P5wOakYN.png">
   
    ![Snake animation](https://github.com/liviabraz/liviabraz/blob/output/github-contribution-grid-snake.svg)
   
